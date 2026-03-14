@@ -1,0 +1,15 @@
+{
+  "name": "threedemo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.5.14"
+  },
+  "dependencies": {
+    "three": "^0.143.0",
+    "three-addons": "^1.2.0"
+  }
+}
